@@ -18,8 +18,8 @@
     "typescript": "^5.5.0"
   },
   "dependencies": {
-    "@utsp/core": "0.17.0-nightly.20260131023726.2382623",
-    "@utsp/runtime-server": "0.17.0-nightly.20260131023726.2382623",
-    "@utsp/types": "0.17.0-nightly.20260131023726.2382623"
+    "@utsp/core": "^0.17.3",
+    "@utsp/runtime-server": "^0.17.3",
+    "@utsp/types": "^0.17.3"
   }
 }
