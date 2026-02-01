@@ -18,6 +18,7 @@ const sessionId = generateSessionId('quick-start');
 
 // Create the server runtime
 const server = new ServerRuntime({
+    debug: true,
     application: new SpaceDemo(),
     mode: NetworkTransportType.WebRTC,
     webrtc: {
